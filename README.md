@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Fachry
 
-I'm an Undergrad Student. I love to build product, go 👇 to see my latest project
+Software Engineer. Go 👇 to see my latest project
 
 ### 📫 How to reach me: 
 - <a  href="https://twitter.com/fachryadhitya">Twitter</a>
