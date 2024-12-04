@@ -4,7 +4,7 @@ I'm a Software Engineer. Go 👇 to see my latest project
 
 ### 📫 How to reach me: 
 - <a  href="https://twitter.com/fachryadhitya">Twitter</a>
-- <a  href="https://bento.me/fachry">Website</a>
+- <a  href="https://fachry.vercel.app">Website</a>
 
 
 
